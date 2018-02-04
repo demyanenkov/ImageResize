@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>save.png</file>
+        <file>exchenge.png</file>
+        <file>open.png</file>
+        <file>view.png</file>
+        <file>search.png</file>
+        <file>checked.png</file>
+        <file>run.png</file>
+        <file>main.ico</file>
+        <file>first.png</file>
+        <file>last.png</file>
+    </qresource>
+</RCC>
